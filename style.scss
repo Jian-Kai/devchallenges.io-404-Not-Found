@@ -72,11 +72,12 @@ span {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-family: Space Mono;
-  font-style: normal;
+
   width: 100%;
   * {
     margin: 0;
+    font-family: Space Mono;
+    font-style: normal;
   }
   h1 {
     width: 350px;

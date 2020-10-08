@@ -99,13 +99,13 @@ span {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  font-family: Space Mono;
-  font-style: normal;
   width: 100%;
 }
 
 .content * {
   margin: 0;
+  font-family: Space Mono;
+  font-style: normal;
 }
 
 .content h1 {
