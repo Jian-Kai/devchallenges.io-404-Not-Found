@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://jiankai-404notfound.netlify.app/404">
       Demo
     </a>
     <span> | </span>
