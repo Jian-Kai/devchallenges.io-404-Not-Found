@@ -38,12 +38,10 @@
 
 ![screenshot](https://github.com/Jian-Kai/devchallenges.io-404-Not-Found/blob/main/demo.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This is my first devchallenges project. 
+I I try to use css Grid to design my 404 page.
+And I use VsCode extension (Live Sass Compiler) help me to compile scss to css.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -51,6 +49,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [html5](https://html5.org/)
 - [Scss](https://sass-lang.com/)
+- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
 ## Features
 
