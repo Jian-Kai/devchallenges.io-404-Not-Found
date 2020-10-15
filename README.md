@@ -39,7 +39,7 @@
 ![screenshot](https://github.com/Jian-Kai/devchallenges.io-404-Not-Found/blob/main/demo.png)
 
 This is my first devchallenges project. 
-I I try to use css Grid to design my 404 page.
+I try to use css Grid to design my 404 page.
 And I use VsCode extension (Live Sass Compiler) help me to compile scss to css.
 
 
